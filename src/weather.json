@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": -1.6959, "lat": 52.634 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 288.21,
+    "feels_like": 288.15,
+    "temp_min": 287.06,
+    "temp_max": 289.17,
+    "pressure": 1009,
+    "humidity": 91
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2, "deg": 230, "gust": 2.28 },
+  "clouds": { "all": 10 },
+  "dt": 1687308258,
+  "sys": {
+    "type": 2,
+    "id": 2011939,
+    "country": "GB",
+    "sunrise": 1687318965,
+    "sunset": 1687379650
+  },
+  "timezone": 3600,
+  "id": 2636276,
+  "name": "Tamworth",
+  "cod": 200
+}
